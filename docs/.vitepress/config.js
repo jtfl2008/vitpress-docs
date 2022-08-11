@@ -3,7 +3,7 @@ export default {
   title: '数据驱动组件库', //站点标题
   description: '一个vue3，element-plus封装的组件库', //mate标签description，多用于搜索引擎抓取摘要
   themeConfig: {
-    siteTitle: 'Kitty',
+    siteTitle: '数据驱动组件库',
     logo: '/favicon.ico',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jtfl2008' },
